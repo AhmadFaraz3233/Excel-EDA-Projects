@@ -2,3 +2,4 @@
 Data Analysis projects
 - Descriptive Analysis
 - Predictive Analysis
+- Exploratory Analysis
